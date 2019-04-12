@@ -30,4 +30,4 @@ int main() {
 		if (mod == 1) printf("Treba se pomeriti %d mesta", n-br);
 		else printf("ne moze se napraviti");
 	}
-}
+} 
